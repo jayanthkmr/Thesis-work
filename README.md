@@ -29,9 +29,10 @@ To run the notebooks:
 3. Open the desired `.ipynb` file.
 
 ## File Structure
-- `NLP-*`: Notebooks for NLP-based models.
-- `Resnet-*`: Notebook for image classification using ResNet.
-- `images/`: Contains images used in notebooks.
+- `Notebooks/NLP/`: Notebooks for NLP-based models.
+- `Notebooks/ImageProcessing`: Notebook for image classification using ResNet.
+- `Notebooks/Multi-objective`: Notebook for multi-objective deep learning on CIFAR100 dataset.
+- `images/`: Contains images used in notebooks and thesis.
 - `thesis.pdf`: The complete thesis document.
 - `PPT/`: Presentation files.
 
